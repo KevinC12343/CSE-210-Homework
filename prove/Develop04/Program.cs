@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Menue Options: ");
+        Console.WriteLine("Menu Options: ");
         Console.WriteLine("1, Breathing");
         Console.WriteLine("2, reflecting");
         Console.WriteLine("3, Start Listing Activity");
